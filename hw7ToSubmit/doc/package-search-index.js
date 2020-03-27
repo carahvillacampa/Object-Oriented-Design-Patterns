@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"hw6Files.src.src.source.shop.command"},{"l":"hw6Files.src.src.source.shop.data"},{"l":"hw6Files.src.src.source.shop.main"},{"l":"hw6Files.src.src.source.shop.ui"}]
