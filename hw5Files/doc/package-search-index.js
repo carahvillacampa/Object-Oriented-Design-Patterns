@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"source.shop.command"},{"l":"source.shop.data"},{"l":"source.shop.main"},{"l":"source.shop.ui"}]
