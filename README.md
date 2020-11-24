@@ -1,2 +1,5 @@
 # Object-Oriented-Design-Patterns
-Design patterns using Java for my software development class
+
+These files are references for future employers only. I do not
+encourage any type of cheating. 
+
